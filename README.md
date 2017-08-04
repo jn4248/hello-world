@@ -1,6 +1,5 @@
 # hello-world
-Basic first-step repository to learn git-hub basics
 
-This is my first repository, and just learning the basic somantics.  
+This is my first repository, used as a testing ground.  I'm just learning the basic somantics.  
 
-Excited to be programming!
+Excited to be finally programming!
